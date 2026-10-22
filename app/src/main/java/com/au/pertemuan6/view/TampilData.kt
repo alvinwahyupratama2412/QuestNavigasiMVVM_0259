@@ -1,4 +1,4 @@
-package com.au.pertemuan6
+package com.au.pertemuan6.view
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -23,6 +23,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.au.pertemuan6.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
