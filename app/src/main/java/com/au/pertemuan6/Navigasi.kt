@@ -10,6 +10,7 @@ import androidx.navigation.compose.composable
 import com.au.pertemuan6.view.FormIsian
 import com.au.pertemuan6.view.TampilData
 
+
 enum class Navigasi {
     FormulirSaya,
     Detail
